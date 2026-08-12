@@ -1,7 +1,5 @@
 # 🎮 Gspace
 
-> **The first Super App built for Persian-speaking gamers.**
-
 Gspace is an all-in-one platform designed for Persian-speaking gamers, bringing together **gaming news, chat rooms, social features, game information, and more** in one place.
 
 ## ✨ Features
